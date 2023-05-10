@@ -15,6 +15,12 @@ p{
   font-size: 22pt;
   margin-left: 100px;
   margin-right: 100px;
+           
+           @media (max-width: 767px) {
+    margin: 0 10px;
+    font-size: 12px;
+  }
+  
   
 }
 
