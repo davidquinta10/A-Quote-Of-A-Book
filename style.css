@@ -1,0 +1,42 @@
+
+
+body{
+           
+  background-image: url(./assets/main.png);
+  background-size: cover;
+}
+
+
+
+p{
+  color:black ;
+  font-family:'IM Fell English', serif;
+  text-align: center;
+  font-size: 22pt;
+  margin-left: 100px;
+  margin-right: 100px;
+  
+}
+
+h1{
+   
+  color: rgb(100, 149, 237);
+  font-family: 'Cinzel', serif;
+  text-align: center;
+  margin-top: 95px;
+  margin-bottom: 120px;
+  font-size: 45px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+  
